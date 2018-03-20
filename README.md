@@ -1,4 +1,4 @@
-# Weatherdata
+# Weather data
 
 Summary: This respository contains information on how to scrape weather data using Selenium with Chrome. In order to this Jupyter Notebook, you first must install some python packages and drivers.
 
